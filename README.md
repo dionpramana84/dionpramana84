@@ -37,7 +37,3 @@ I'm a passionate Frontend and Fullstack Developer who loves building modern web 
 ## 🎮 Fun Fact
 
 When I'm not coding, you’ll find me playing games and exploring new adventures.
-
----
-
-![Dion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionpramana84&show_icons=true&theme=radical)
