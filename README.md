@@ -1,16 +1,45 @@
-## Hi there 👋
+![GitHub Banner](https://github.com/dionpramana84.png)
 
-<!--
-**dionpramana84/dionpramana84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Dion Pramana
 
-Here are some ideas to get you started:
+**Enthusiastic Next.js Developer | Frontend & Fullstack Specialist**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a passionate Frontend and Fullstack Developer who loves building modern web experiences with Next.js, TypeScript, and more. Always eager to learn new tech, push boundaries, and craft pixel-perfect interfaces.
+
+**Tagline:**  
+✨ Enthusiastic about Next.js and creating web magic!
+
+---
+
+## 🛠️ Skills
+
+- HTML, CSS, JavaScript
+- Next.js, TypeScript
+- Supabase, Prisma
+
+---
+
+## 🌟 Featured Project
+
+- [My Portfolio Project](https://github.com/dionpramana84/my-portofolio-project)  
+  _Check out my personal portfolio to see some of my best work!_
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/dionpramana84/)
+
+---
+
+## 🎮 Fun Fact
+
+When I'm not coding, you’ll find me playing games and exploring new adventures.
+
+---
+
+![Dion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionpramana84&show_icons=true&theme=radical)
