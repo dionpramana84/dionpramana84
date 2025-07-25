@@ -1,5 +1,3 @@
-![GitHub Banner](https://github.com/dionpramana84.png)
-
 # Hi there 👋, I'm Dion Pramana
 
 **Enthusiastic Next.js Developer | Frontend & Fullstack Specialist**
