@@ -54,7 +54,7 @@ I specialize in designing **modular architectures, API systems, and multi-servic
 
 ## 📌 Featured Project
 
-* [My Portfolio Project]([https://github.com/dionpramana84/my-portofolio-project](https://github.com/dionpramana84/portfolio))
+* [My Portfolio Project](https://dion-pramana.vercel.app/)
   Personal portfolio showcasing selected projects and implementations.
 
 ---
